@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <title>
+            WELCOME TO HOME PAGE!!!
+        </title>
+    </head>
+    <body>
+        <font face="verdana" color="green">this is some text!</font>
+    </body>
+</html> 
+<! DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1{
+                background-color: aqua;
+                color: black;
+            }
+            p{
+                border: coral;
+            }
+            h2{
+                background-color: tomato;
+            }
+        </style>
+    </head>
+    <body>
+        <b>Uniquly Select h1 </b>
+        <h1 id="x">
+            This is css selector Demo.
+        </h1>
+
+        <p>
+            This is Element Selector Demo
+        </p>
+        <h2>
+            Element
+        </h2>
+        div{
+            width : 300px;
+            border: 15px solid green;
+            padding: 50px;
+            margin: 20px;
+        }
+    </body>
+</html>
